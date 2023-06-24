@@ -1,4 +1,5 @@
 [![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,react)](https://skillicons.dev)<a href="https://www.buymeacoffee.com/iguangzhengli" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://app.daily.dev/ItamiWorld"><img src="https://api.daily.dev/devcards/dab7f860f7394fc0803744e36b99fc39.png?r=n4c" width="200" align='right' alt="Tadao Minami's Dev Card"/></a>
 
 > ⚠️⚠️⚠️ Warning: Please understand that the https://chatfiles-ui.fly.dev web demo is temporarily unavailable as used up all the credits available in my free trial. and I am unable to recharge. If necessary, please run it locally yourself. Thanks.
 
